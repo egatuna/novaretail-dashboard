@@ -273,7 +273,7 @@ customer has purchased since Jan 30, while other segments kept buying through Fe
 use satisfaction ≤2 as an automatic churn alert.
 
 **3. Data-driven priorities — fix the store experience and lift low-ticket segments.**
-Physical stores sell more ($9.5K vs $7.5K online, higher average ticket) but score lower on satisfaction (3.54 vs 3.88).
+Physical stores sell more ($9.3K vs $7.5K online, higher average ticket) but score lower on satisfaction (3.59 vs 3.88).
 Stable customers are satisfied (4.0) but spend only **$52 per purchase** (6% of revenue). *Action:* (a) in-store
 after-sale follow-up and staff training for Electronics; (b) bundles / free-shipping thresholds to raise Stable basket size;
 (c) track Decline revenue share and low-satisfaction rate monthly as KPIs.
